@@ -265,6 +265,4 @@ ToPeak은 역할과 책임에 따라 4개의 독립된 저장소로 구성되어
 
   **ToPeak — 기록하고 즐겁게 오르는 방법**
 
-  Copyright © 2026 Team FiveGuys.
-
 </div>
