@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="./assets/ToPeak.png" width="120" alt="ToPeak Logo" />
+  <img src="./assets/ToPeak_bg.png" width="120" alt="ToPeak Logo" />
 
   # ToPeak
 
@@ -9,7 +9,7 @@
 
   경기도의 새로운 산을 발견하고, 산행을 기록하며 성장하는 등산 서비스
 
-  🏆 **2026 컴퓨터정보공학부 학술제 인기상 (4위)**
+  🏆 **2026 컴퓨터정보공학부 학술제 인기상 (4등)**
 
   **Team FiveGuys**
 
@@ -50,7 +50,7 @@ GPS 기반 산행 기록을 점수 및 랭킹으로 연결하여
 | 대회명 | 2026 컴퓨터정보공학부 학술제 |
 | 프로젝트 | ToPeak |
 | 참가팀 | FiveGuys |
-| 수상 | 인기상 (4위) |
+| 수상 | 인기상 (4등) |
 
 ---
 
@@ -137,7 +137,7 @@ GPS 기반 산행 활동과 등산일지를 구분하여 관리하며,
 ## 🏗️ 시스템 아키텍처
 
 <div align="center">
-  <img src="./assets/system-architecture.png" width="100%" alt="시스템 아키텍처" />
+  <img src="./assets/ToPeak_시스템_아키텍처_최종.png" width="100%" alt="ToPeak 시스템 아키텍처" />
 </div>
 
 - React 및 TypeScript 기반 SPA
@@ -153,7 +153,7 @@ GPS 기반 산행 활동과 등산일지를 구분하여 관리하며,
 ## ☁️ AWS 배포 및 CI/CD
 
 <div align="center">
-  <img src="./assets/aws-architecture.png" width="100%" alt="AWS 배포 아키텍처" />
+  <img src="./assets/아키텍쳐_파이브가이즈.png" width="100%" alt="ToPeak AWS 배포 아키텍처" />
 </div>
 
 AWS 서울 리전(ap-northeast-2)을 기반으로
@@ -190,7 +190,7 @@ Copernicus DEM 고도 자료를 활용하여
 ### 데이터 출처
 
 - [산림청](https://www.forest.go.kr/)
-- [OpenStreetMap Contributors](https://www.openstreetmap.org/copyright)
+- [OpenStreetMap Contributors (ODbL)](https://www.openstreetmap.org/copyright)
 - Copernicus DEM
 
 ---
@@ -198,7 +198,7 @@ Copernicus DEM 고도 자료를 활용하여
 ## 📱 서비스 UI / UX
 
 <div align="center">
-  <img src="./assets/service-ui.png" width="100%" alt="ToPeak 서비스 UI" />
+  <img src="./assets/최종UI_파이브가이즈.png" width="100%" alt="ToPeak 서비스 최종 UI" />
 </div>
 
 ---
@@ -243,7 +243,7 @@ ToPeak은 역할과 책임에 따라 4개의 독립된 저장소로 구성되어
 
 <div align="center">
 
-  <img src="./assets/ToPeak.png" width="60" alt="ToPeak Logo" />
+  <img src="./assets/ToPeak_bg.png" width="60" alt="ToPeak Logo" />
 
   **ToPeak — 기록하고 즐겁게 오르는 방법**
 
