@@ -220,11 +220,27 @@ ToPeak은 역할과 책임에 따라 4개의 독립된 저장소로 구성되어
 
 ## 📚 프로젝트 문서
 
-- [서비스 기획안 및 프로젝트 문서](https://github.com/csie2026/DOCS)
-- [API 명세서](https://github.com/csie2026/DOCS)
-- [프론트엔드 구현 및 실행 안내](https://github.com/csie2026/FE)
-- [백엔드 구현 및 실행 안내](https://github.com/csie2026/BE)
-- [데이터 구축 및 처리 과정](https://github.com/csie2026/DATA)
+### 서비스 기획 및 설계
+
+| 문서 | 설명 |
+| :--- | :--- |
+| [서비스 기획안](https://github.com/csie2026/DOCS/blob/main/ToPeak%20서비스%20기획안.md) | 개발 배경, 서비스 차별성, 핵심 기능 및 발전 로드맵 |
+| [API 명세서](https://github.com/csie2026/DOCS/blob/main/ToPeak%20API%20명세서.md) | REST API, 요청·응답 구조, 인증 및 예외 처리 |
+
+### 핵심 기능 및 기술 정책
+
+| 문서 | 설명 |
+| :--- | :--- |
+| [점수·랭킹 및 산행 통계 정책](https://github.com/csie2026/DOCS/blob/main/SCORE_POLICY.md) | 점수 산정 기준, 랭킹 및 산행 통계 집계 정책 |
+| [GPS 산행 데이터 무결성](https://github.com/csie2026/DOCS/blob/main/hiking-activity-integrity.md) | GPS 활동 검증, 데이터 무결성 및 호환성 관리 |
+| [회원탈퇴 정책](https://github.com/csie2026/DOCS/blob/main/account-withdrawal.md) | 회원탈퇴 정책 및 구현 이력 |
+| [계정 정보 관리](https://github.com/csie2026/DOCS/blob/main/settings-account-details.md) | 계정 정보 및 가입일 관리 |
+
+### 문서 검증
+
+| 문서 | 설명 |
+| :--- | :--- |
+| [최종 문서 검수 보고서](https://github.com/csie2026/DOCS/blob/main/FINAL_DOCUMENTATION_AUDIT.md) | 실제 구현과 기술 문서 간 정합성 및 검증 결과 |
 
 ---
 
