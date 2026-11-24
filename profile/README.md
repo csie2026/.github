@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="./assets/ToPeak_bg.png" width="120" alt="ToPeak Logo" />
+  <img src="./asset/ToPeak_bg.png" width="120" alt="ToPeak Logo" />
 
   # ToPeak
 
@@ -137,7 +137,7 @@ GPS 기반 산행 활동과 등산일지를 구분하여 관리하며,
 ## 🏗️ 시스템 아키텍처
 
 <div align="center">
-  <img src="./assets/ToPeak_시스템_아키텍처_최종.png" width="100%" alt="ToPeak 시스템 아키텍처" />
+  <img src="./asset/ToPeak_시스템_아키텍처_최종.png" width="100%" alt="ToPeak 시스템 아키텍처" />
 </div>
 
 - React 및 TypeScript 기반 SPA
@@ -153,7 +153,7 @@ GPS 기반 산행 활동과 등산일지를 구분하여 관리하며,
 ## ☁️ AWS 배포 및 CI/CD
 
 <div align="center">
-  <img src="./assets/아키텍쳐_파이브가이즈.png" width="100%" alt="ToPeak AWS 배포 아키텍처" />
+  <img src="./asset/아키텍쳐_파이브가이즈.png" width="100%" alt="ToPeak AWS 배포 아키텍처" />
 </div>
 
 AWS 서울 리전(ap-northeast-2)을 기반으로
@@ -197,9 +197,11 @@ Copernicus DEM 고도 자료를 활용하여
 
 ## 📱 서비스 UI / UX
 
-<div align="center">
-  <img src="./assets/최종UI_파이브가이즈.png" width="100%" alt="ToPeak 서비스 최종 UI" />
-</div>
+모바일 환경을 중심으로 설계하였으며,
+산 탐색부터 코스 선택, GPS 산행, 등산일지 작성 및 랭킹 확인까지
+일관된 사용자 경험을 제공합니다.
+
+**[📄 ToPeak 최종 UI 디자인 확인하기 (PDF)](./asset/최종UI_파이브가이즈.pdf)**
 
 ---
 
@@ -243,7 +245,7 @@ ToPeak은 역할과 책임에 따라 4개의 독립된 저장소로 구성되어
 
 <div align="center">
 
-  <img src="./assets/ToPeak_bg.png" width="60" alt="ToPeak Logo" />
+  <img src="./asset/ToPeak_bg.png" width="60" alt="ToPeak Logo" />
 
   **ToPeak — 기록하고 즐겁게 오르는 방법**
 
